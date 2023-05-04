@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\MVC\MVC\bin\Debug\net6.0\MVC.exe
+C:\Users\user\source\repos\MVC\MVC\bin\Debug\net6.0\MVC.deps.json
+C:\Users\user\source\repos\MVC\MVC\bin\Debug\net6.0\MVC.runtimeconfig.json
+C:\Users\user\source\repos\MVC\MVC\bin\Debug\net6.0\MVC.dll
+C:\Users\user\source\repos\MVC\MVC\bin\Debug\net6.0\MVC.pdb
+C:\Users\user\source\repos\MVC\MVC\obj\Debug\net6.0\MVC.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MVC\MVC\obj\Debug\net6.0\MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MVC\MVC\obj\Debug\net6.0\MVC.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MVC\MVC\obj\Debug\net6.0\MVC.AssemblyInfo.cs
+C:\Users\user\source\repos\MVC\MVC\obj\Debug\net6.0\MVC.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MVC\MVC\obj\Debug\net6.0\MVC.dll
+C:\Users\user\source\repos\MVC\MVC\obj\Debug\net6.0\refint\MVC.dll
+C:\Users\user\source\repos\MVC\MVC\obj\Debug\net6.0\MVC.pdb
+C:\Users\user\source\repos\MVC\MVC\obj\Debug\net6.0\MVC.genruntimeconfig.cache
+C:\Users\user\source\repos\MVC\MVC\obj\Debug\net6.0\ref\MVC.dll

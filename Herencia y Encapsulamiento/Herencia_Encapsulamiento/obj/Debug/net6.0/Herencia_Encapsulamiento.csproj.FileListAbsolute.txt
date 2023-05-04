@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Herencia y Encapsulamiento\Herencia_Encapsulamiento\bin\Debug\net6.0\Herencia_Encapsulamiento.exe
+C:\Users\user\source\repos\Herencia y Encapsulamiento\Herencia_Encapsulamiento\bin\Debug\net6.0\Herencia_Encapsulamiento.deps.json
+C:\Users\user\source\repos\Herencia y Encapsulamiento\Herencia_Encapsulamiento\bin\Debug\net6.0\Herencia_Encapsulamiento.runtimeconfig.json
+C:\Users\user\source\repos\Herencia y Encapsulamiento\Herencia_Encapsulamiento\bin\Debug\net6.0\Herencia_Encapsulamiento.dll
+C:\Users\user\source\repos\Herencia y Encapsulamiento\Herencia_Encapsulamiento\bin\Debug\net6.0\Herencia_Encapsulamiento.pdb
+C:\Users\user\source\repos\Herencia y Encapsulamiento\Herencia_Encapsulamiento\obj\Debug\net6.0\Herencia_Encapsulamiento.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Herencia y Encapsulamiento\Herencia_Encapsulamiento\obj\Debug\net6.0\Herencia_Encapsulamiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Herencia y Encapsulamiento\Herencia_Encapsulamiento\obj\Debug\net6.0\Herencia_Encapsulamiento.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Herencia y Encapsulamiento\Herencia_Encapsulamiento\obj\Debug\net6.0\Herencia_Encapsulamiento.AssemblyInfo.cs
+C:\Users\user\source\repos\Herencia y Encapsulamiento\Herencia_Encapsulamiento\obj\Debug\net6.0\Herencia_Encapsulamiento.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Herencia y Encapsulamiento\Herencia_Encapsulamiento\obj\Debug\net6.0\Herencia_Encapsulamiento.dll
+C:\Users\user\source\repos\Herencia y Encapsulamiento\Herencia_Encapsulamiento\obj\Debug\net6.0\refint\Herencia_Encapsulamiento.dll
+C:\Users\user\source\repos\Herencia y Encapsulamiento\Herencia_Encapsulamiento\obj\Debug\net6.0\Herencia_Encapsulamiento.pdb
+C:\Users\user\source\repos\Herencia y Encapsulamiento\Herencia_Encapsulamiento\obj\Debug\net6.0\Herencia_Encapsulamiento.genruntimeconfig.cache
+C:\Users\user\source\repos\Herencia y Encapsulamiento\Herencia_Encapsulamiento\obj\Debug\net6.0\ref\Herencia_Encapsulamiento.dll
